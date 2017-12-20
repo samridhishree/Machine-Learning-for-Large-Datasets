@@ -1,1 +1,1 @@
-This is an implementation of Naive Bayes training in the Hadoop Map Reduce Framework using python for document classification. The training is split into a mapper and a reducer. The output of the reducer d the aggregated counts of the words that appear in a training corpus
+This is an implementation of Naive Bayes training in the Hadoop Map Reduce Framework using python for document classification. The training is split into a mapper and a reducer. The output of the reducer is the aggregated counts of the words that appear in a training corpus
