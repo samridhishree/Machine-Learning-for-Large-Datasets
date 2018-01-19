@@ -1,3 +1,0 @@
-This is an implementation of Lazy Sparse Stochastic Gradient Descent for Regularized Mutlinomial Logistic Regression for document classification. The multilevel classification problem here is treated as multiple independent binary classification tasks. 5 document classes are used for training and testing. 
-
-For more details on lazy SGD please visit: https://lingpipe.files.wordpress.com/2008/04/lazysgdregression.pdf
